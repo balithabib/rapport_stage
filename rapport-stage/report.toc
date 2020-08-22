@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction g\IeC {\'e}n\IeC {\'e}rale}{2}
+\contentsline {section}{\numberline {2}D\IeC {\'e}veloppement}{3}
+\contentsline {subsection}{\numberline {2.1}Installation}{3}
+\contentsline {subsection}{\numberline {2.2}Training}{3}
+\contentsline {subsection}{\numberline {2.3}b2b-Enedis (Java)}{4}
+\contentsline {subsubsection}{\numberline {2.3.1}Introduction}{4}
+\contentsline {subsubsection}{\numberline {2.3.2}Impl\IeC {\'e}mentation}{4}
+\contentsline {subsubsection}{\numberline {2.3.3}Conclusion}{8}
+\contentsline {subsection}{\numberline {2.4}b2b-Engie (Python)}{9}
+\contentsline {subsubsection}{\numberline {2.4.1}Introduction}{9}
+\contentsline {subsubsection}{\numberline {2.4.2}Impl\IeC {\'e}mentation}{9}
+\contentsline {subsubsection}{\numberline {2.4.3}Conclusion}{12}
+\contentsline {subsection}{\numberline {2.5}b2b-meter (Java)}{13}
+\contentsline {subsubsection}{\numberline {2.5.1}Introduction}{13}
+\contentsline {subsubsection}{\numberline {2.5.2}Impl\IeC {\'e}mentation}{14}
+\contentsline {subsubsection}{\numberline {2.5.3}Conclusion}{14}
+\contentsline {section}{\numberline {3}Conclusion g\IeC {\'e}n\IeC {\'e}rale}{16}
